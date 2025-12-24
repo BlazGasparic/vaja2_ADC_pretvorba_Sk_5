@@ -5,7 +5,7 @@ __SLIKA PINOUT__
 
 
 __SLIKA VEZJA__
-![alt text](Vaja2_slika_vezja.jpeg)
+![alt text](vaja2_slika_vezja.jpeg)
 
 
 __ODGOVORI NA VPRAŠANJA__
